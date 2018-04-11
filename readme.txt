@@ -25,7 +25,7 @@ CONTACT:
 
 Please open a GitHub issue for all issues, requests, or concerns: 
 
-https://github.com/Ipstenu/varnish-http-purge/issues/new
+https://github.com/Ipstenu/varnish-debug-service/issues/new
 
 TERMS AND CONDITIONS OF USE
 
