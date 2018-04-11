@@ -1,5 +1,7 @@
 LAST UPDATE: 11 April 2018
 
+LICESNE: CC-BY-4.0
+
 OVERVIEW:
 
 This bucket - https://varnish-http-purge.objects-us-east-1.dream.io/ - was developed for
