@@ -1,6 +1,6 @@
 LAST UPDATE: 11 April 2018
 
-LICESNE: CC-BY-4.0
+LICENSE: CC-BY-4.0 (see https://varnish-http-purge.objects-us-east-1.dream.io/license.txt)
 
 OVERVIEW:
 
@@ -46,8 +46,8 @@ them via any service or tool created. You are permitted to:
 * transfer the materials to another person or “mirror” the materials on any other server.
 
 You are NOT permitted to:
-remove any copyright or other proprietary notations from the materials; or
-engage in actions that harm this service (such as a DOS attack).
+* remove any copyright or other proprietary notations from the materials; or
+* engage in actions that harm this service (such as a DOS attack).
 
 These permissions terminate upon violations of any of these restrictions. Upon termination, 
 your viewing right will also be terminated.
