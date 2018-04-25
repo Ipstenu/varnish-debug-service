@@ -14,6 +14,16 @@
 		"cookie": "edd_items_in_cart",
 		"message": "The plugin Easy Digital Downloads is putting down a shopping cart cookie on every page load. Make sure Varnish is set up to ignore that when it's empty."
 	},
+	"Give Cookies":{
+		"type": "warning",
+		"cookie": "give_wp_session",
+		"message": "The plugin Give is putting down a session cookie on all page loads. Please make sure to add <code>define( 'GIVE_USE_PHP_SESSIONS' , false);</code> to your <code>wp-config.php</code> file."
+	},
+	"WP Math Captcha":{
+		"type": "bad",
+		"cookie": "mc_session_ids",
+		"message": "The plugin WP Math Captcha uses session cookies on every page load."
+	}
 	"WordFence":{
 		"type": "bad",
 		"cookie": "wfvt_",

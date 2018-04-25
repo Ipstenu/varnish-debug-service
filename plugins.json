@@ -1,6 +1,11 @@
 {
-	"bad-behavior":{
+	"autoptimize":{
 		"type": "warning",
+		"path": "autoptimize/autoptimize.php",
+		"reason": "incompatible"
+	},
+	"bad-behavior":{
+		"type": "bad",
 		"path": "bad-behavior/bad-behavior.php",
 		"reason": "incompatible"
 	},
@@ -8,6 +13,11 @@
 		"type": "warning",
 		"path": "cleantalk/cleantalk.php",
 		"reason": "translation"
+	},
+	"give":{
+		"type": "warning",
+		"path": "give/give.php",
+		"reason": "sessions"
 	},
 	"gtranslate":{
 		"type": "warning",
@@ -25,7 +35,7 @@
 		"reason": "translation"
 	},
 	"quick-cache":{
-		"type": "warning",
+		"type": "bad",
 		"path": "quick-cache/quick-cache.php",
 		"reason": "cache"
 	},
@@ -45,7 +55,7 @@
 		"reason": "sessions"
 	},
 	"tweet-blender":{
-		"type": "warning",
+		"type": "bad",
 		"path": "tweet-blender/tweet-blender.php",
 		"reason": "incompatible"
 	},
@@ -54,13 +64,18 @@
 		"path": "wglot/wglot.php",
 		"reason": "translation"
 	},
-	"wp-cache":{
+	"w3-total-cache":{
 		"type": "warning",
+		"path": "w3-total-cache/w3-total-cache.php",
+		"reason": "cache"
+	},
+	"wp-cache":{
+		"type": "bad",
 		"path": "wp-cache/wp-cache.php",
 		"reason": "cache"
 	},
 	"wp-file-cache":{
-		"type": "warning",
+		"type": "bad",
 		"path": "wp-file-cache/file-cache.php",
 		"reason": "cache"
 	},
