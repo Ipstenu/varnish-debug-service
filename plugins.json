@@ -59,6 +59,11 @@
 		"path": "tweet-blender/tweet-blender.php",
 		"reason": "incompatible"
 	},
+	"wordfence":{
+		"type": "warning",
+		"path": "wordfence/wordfence.php",
+		"reason": "cookies"
+	},
 	"wglot":{
 		"type": "warning",
 		"path": "wglot/wglot.php",
