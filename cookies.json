@@ -29,6 +29,11 @@
 		"cookie": "wfvt_",
 		"message": "The plugin WordFence is putting down cookies on every page load. Please check 'Disable WordFence Cookies' under General Wordfence Options to resolve."
 	},
+	"WordFence Verified Human":{
+		"type": "bad",
+		"cookie": "wordfence_verifiedHuman",
+		"message": "The plugin WordFence is putting down cookies on every page load. Please check 'Disable WordFence Cookies' under General Wordfence Options to resolve."
+	},
 	"Invite Anyone":{
 		"type": "bad",
 		"cookie": "invite-anyone",
