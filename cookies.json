@@ -23,7 +23,7 @@
 		"type": "bad",
 		"cookie": "mc_session_ids",
 		"message": "The plugin WP Math Captcha uses session cookies on every page load."
-	}
+	},
 	"WordFence":{
 		"type": "bad",
 		"cookie": "wfvt_",
