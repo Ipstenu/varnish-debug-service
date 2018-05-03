@@ -9,7 +9,7 @@ use by the VARNISH HTTP PURGE plugin, hosted on WordPress.org.
 
 It is owned by Mika A. Epstein, and used only for providing up to date 
 compatibility checks on plugins and themes that may conflict with running a 
-Varnish Cache.
+server based cache service (such as Varnish or Nginx).
 
 No identifying transaction data is recorded or stored, only overall usage. IP 
 addresses of the website making the request may be recorded by the service, but 
@@ -63,14 +63,14 @@ relating to such materials or any sites linked to this Website.
 
 Mika A. Epstein and DreamHost will not be hold accountable for any damages that will arise with 
 the use or inability to use the materials herein, even if an authorize representative of this 
-service has been notified, orally or written, of the possibility of such damage. Some jurisdiction
- does not allow limitations on implied warranties or limitations of liability for incidental 
- damages, these limitations may not apply to you.
+service has been notified, orally or written, of the possibility of such damage. Some jurisdiction 
+does not allow limitations on implied warranties or limitations of liability for incidental 
+damages, these limitations may not apply to you.
 
 5. Revisions and Errata
 
 The materials appearing on this service may include technical, typographical, or photographic 
-errors. There is no promise that any of the materials in this Website are 100% accurate, complete, 
+errors. There is no promise that any of the materials in this service are 100% accurate, complete, 
 or current. This service may change the materials contained herein any time without notice. 
 The materials will be updated for as long as the Varnish HTTP Purge plugin requires them.
 
@@ -87,5 +87,5 @@ Service, you are agreeing to be bound by the current version of these Terms and 
 
 8. Governing Law
 
-Any claim related to Mika A. Epstein‘s Service shall be governed by the laws of United States without 
+Any claim related to this service shall be governed by the laws of United States without 
 regards to its conflict of law provisions.

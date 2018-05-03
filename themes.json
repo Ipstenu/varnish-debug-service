@@ -9,6 +9,6 @@
 	},
 	"prophoto6":{
 		"type": "warning",
-		"message": "Prophoto version 6 requires you to be on version 6.21.8 or higher to work properly with Varnish. Please make sure your theme is up to date."
+		"message": "Prophoto version 6 requires you to be on version 6.21.8 or higher to work properly with caching services. Please make sure your theme is up to date."
 	}
 }

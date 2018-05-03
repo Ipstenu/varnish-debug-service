@@ -1,6 +1,6 @@
 {
 	"autoptimize":{
-		"type": "warning",
+		"type": "bad",
 		"path": "autoptimize/autoptimize.php",
 		"reason": "incompatible"
 	},
@@ -14,9 +14,24 @@
 		"path": "cleantalk/cleantalk.php",
 		"reason": "translation"
 	},
+	"divi-protect":{
+		"type": "bad",
+		"path": "divi-protect/divi-protect.php",
+		"reason": "sessions"
+	},
+	"download-manager":{
+		"type": "bad",
+		"path": "download-manager/download-manager.php",
+		"reason": "sessions"
+	},
 	"give":{
 		"type": "warning",
 		"path": "give/give.php",
+		"reason": "sessions"
+	},
+	"google-authenticator":{
+		"type": "warning",
+		"path": "google-authenticator/google-authenticator.php",
 		"reason": "sessions"
 	},
 	"gtranslate":{
@@ -27,6 +42,11 @@
 	"pie-register":{
 		"type": "warning",
 		"path": "pie-register/pie-register.php",
+		"reason": "sessions"
+	},
+	"pods":{
+		"type": "warning",
+		"path": "pods/init.php",
 		"reason": "sessions"
 	},
 	"polylang":{
@@ -59,11 +79,6 @@
 		"path": "tweet-blender/tweet-blender.php",
 		"reason": "incompatible"
 	},
-	"wordfence":{
-		"type": "warning",
-		"path": "wordfence/wordfence.php",
-		"reason": "cookies"
-	},
 	"wglot":{
 		"type": "warning",
 		"path": "wglot/wglot.php",
@@ -74,6 +89,21 @@
 		"path": "w3-total-cache/w3-total-cache.php",
 		"reason": "cache"
 	},
+	"woo-advanced-discounts":{
+		"type": "bad",
+		"path": "woo-advanced-discounts/wad.php",
+		"reason": "sessions"
+	},
+	"woocommerce-all-discounts":{
+		"type": "bad",
+		"path": "woocommerce-all-discounts/wad.php",
+		"reason": "sessions"
+	},
+	"wordfence":{
+		"type": "warning",
+		"path": "wordfence/wordfence.php",
+		"reason": "cookies"
+	},
 	"wp-cache":{
 		"type": "bad",
 		"path": "wp-cache/wp-cache.php",
@@ -83,6 +113,11 @@
 		"type": "bad",
 		"path": "wp-file-cache/file-cache.php",
 		"reason": "cache"
+	},
+	"wp-floating-menu-pro":{
+		"type": "bad",
+		"path": "wp-floating-menu-pro/wp-floating-menu-pro.php",
+		"reason": "sessions"
 	},
 	"wp-super-cache":{
 		"type": "warning",
