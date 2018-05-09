@@ -11,6 +11,10 @@ It is owned by Mika A. Epstein, and used for providing up to date compatibility 
 plugins and themes that may conflict with running a server based cache service (such as 
 Varnish or Nginx).
 
+The service is hosted on DreamObjects, and all their privacy and terms and conditions apply.
+
+* https://www.dreamhost.com/legal/
+
 PRIVACY:
 
 When using this service, only non-personally-identifying transaction data is recorded 
