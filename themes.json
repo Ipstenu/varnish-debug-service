@@ -1,4 +1,8 @@
 {
+	"Avada":{
+		"type": "warning",
+		"message": "Avada can cause data to be saved improperly, due to how it indiscriminately empties caches on every page-save. This primarily impacts transaction plugins like eCommerce."
+	},
 	"divi":{
 		"type": "warning",
 		"message": "Older Divi themes use sessions in their headers for many of their themes. Please make sure to upgrade your theme regularly."

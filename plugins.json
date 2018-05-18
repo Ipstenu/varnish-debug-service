@@ -9,6 +9,11 @@
 		"path": "bad-behavior/bad-behavior.php",
 		"reason": "incompatible"
 	},
+	"captainform":{
+		"type": "bad",
+		"path": "captainform/captainform.php",
+		"reason": "incompatible"
+	}
 	"cleantalk":{
 		"type": "warning",
 		"path": "cleantalk/cleantalk.php",
@@ -23,6 +28,11 @@
 		"type": "bad",
 		"path": "download-manager/download-manager.php",
 		"reason": "sessions"
+	},
+	"forms-contact":{
+		"type": "bad",
+		"path": "forms-contact/forms-contact.php",
+		"reason": "incompatible"
 	},
 	"give":{
 		"type": "warning",
@@ -68,6 +78,11 @@
 		"type": "warning",
 		"path": "qtranslate-x/qtranslate.php",
 		"reason": "translation"
+	},
+	"simplemodal-login":{
+		"type": "bad",
+		"path": "simplemodal-login/simplemodal-login.php",
+		"reason": "incompatible"
 	},
 	"simple-session-support":{
 		"type": "bad",
