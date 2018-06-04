@@ -1,9 +1,4 @@
 {
-	"autoptimize":{
-		"type": "bad",
-		"path": "autoptimize/autoptimize.php",
-		"reason": "incompatible"
-	},
 	"bad-behavior":{
 		"type": "bad",
 		"path": "bad-behavior/bad-behavior.php",
