@@ -8,7 +8,7 @@
 		"type": "bad",
 		"path": "captainform/captainform.php",
 		"reason": "incompatible"
-	}
+	},
 	"cleantalk":{
 		"type": "warning",
 		"path": "cleantalk/cleantalk.php",
